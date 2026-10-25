@@ -60,8 +60,8 @@ title: Welcome!
   <p>
   <i class="fab fa-linkedin" aria-hidden="true"></i>
   <strong>LinkedIn:</strong><br>
-    <a href="https://www.linkedin.com/in/unkyunglee/">
-      linkedin.com/in/unkyunglee
+    <a href="https://www.linkedin.com/in/unkyung-lee-73922b77/">
+      linkedin.com/in/unkyung-lee-73922b77
     </a>
  </p>
   <p>
