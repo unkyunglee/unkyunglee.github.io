@@ -74,7 +74,7 @@ title: Welcome!
   </aside>
 
   <section class="profile-intro">
-    <h2>Welcome!</h2>
+    <h2>About Me</h2>
     <p>
       I am a biostatistician with a Ph.D. in Applied Mathematics
       and experience in biomedical research, oncology clinical
