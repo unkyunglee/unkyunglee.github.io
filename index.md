@@ -1,17 +1,22 @@
 ---
 layout: page
 title: Welcome!
+full-width: true
 #subtitle: Open to Biostatistician Opportunities
 ---
 
 <style>
-  .profile-layout {
-    display: grid;
-    grid-template-columns: 220px minmax(0, 1fr);
-    gap: 40px;
-    align-items: start;
-    margin: 30px 0;
-  }
+ .profile-layout {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 50px;
+  align-items: start;
+  width: 100%;
+  max-width: 1150px;
+  margin: 30px auto;
+  padding: 0 24px;
+  box-sizing: border-box;
+}
 
   .profile-sidebar {
     font-size: 16px;
@@ -142,7 +147,7 @@ title: Welcome!
 
   <div class="profile-intro">
     <section class="profile-section" aria-labelledby="about-heading">
-      <h2 id="about-heading">About Me</h2>
+      #<h2 id="about-heading">About Me</h2>
 
       <p>
         I am a biostatistician with a Ph.D. in Applied Mathematics
@@ -154,7 +159,7 @@ title: Welcome!
 
       <p>
         I am currently seeking biostatistician opportunities
-        in collaborative biomedical research.
+        in collaborative biomedical research or pharma companies. 
       </p>
     </section>
 
@@ -164,7 +169,7 @@ title: Welcome!
       <div class="profile-entry">
         <h3>Mathematical Statistician</h3>
         <p class="profile-institution">
-          U.S. Food and Drug Administration
+          U.S. Food and Drug Administration &middot; 2023–2025
         </p>
         <p class="profile-description">
           Reviewed clinical study designs and statistical
@@ -176,7 +181,7 @@ title: Welcome!
       <div class="profile-entry">
         <h3>Postdoctoral Research Fellow</h3>
         <p class="profile-institution">
-          ORISE Program, U.S. Food and Drug Administration
+          ORISE Program, U.S. Food and Drug Administration &middot; 2021–2022
         </p>
         <p class="profile-description">
           Developed statistical methods for survival analysis
@@ -196,7 +201,7 @@ title: Welcome!
       </div>
 
       <div class="profile-entry">
-        <h3>Adjunct Professor</h3>
+        <h3>Lecturer</h3>
         <p class="profile-institution">
           Sam Houston State University &middot; Fall 2016
         </p>
