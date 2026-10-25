@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Unkyung Lee
-subtitle: Open to Biostatistician Opportunities
+title: Welcome! 
+#subtitle: Open to Biostatistician Opportunities
 ---
 
 <style>
@@ -50,17 +50,27 @@ subtitle: Open to Biostatistician Opportunities
     <img src="{{ '/img/UnkyungLee.jpg' | relative_url }}"
          alt="Unkyung Lee">
 
-    <h2>Contact</h2>
-    <p>
-      <strong>Email</strong><br>
-      <a href="mailto:uklee1029@gmail.com">
-        uklee1029@gmail.com
-      </a>
-    </p>
-    <p>
-      <a href="[https://www.linkedin.com/in/unkyunglee/](https://www.linkedin.com/in/unkyung-lee-73922b77/)">LinkedIn</a><br>
-      <a href="https://github.com/unkyunglee">GitHub</a>
-    </p>
+   <h2 class="profile-name">Unkyung Lee</h2>
+  <p>
+  <i class="fas fa-envelope" aria-hidden="true"></i>
+  <strong>Email:</strong><br>
+  <a href="mailto:uklee1029@gmail.com">uklee1029@gmail.com</a>
+  </p>
+ 
+  <p>
+  <i class="fab fa-linkedin" aria-hidden="true"></i>
+  <strong>LinkedIn:</strong><br>
+    <a href="https://www.linkedin.com/in/unkyunglee/">
+      linkedin.com/in/unkyunglee
+    </a>
+ </p>
+  <p>
+  <i class="fab fa-github" aria-hidden="true"></i>
+  <strong>GitHub:</strong><br>
+    <a href="https://github.com/unkyunglee">
+      github.com/unkyunglee
+    </a>
+  </p>
   </aside>
 
   <section class="profile-intro">
