@@ -53,8 +53,8 @@ subtitle: Open to Biostatistician Opportunities
     <h2>Contact</h2>
     <p>
       <strong>Email</strong><br>
-      <a href="mailto:YOUR_EMAIL@example.com">
-        YOUR_EMAIL@example.com
+      <a href="mailto:uklee1029@gmail.com">
+        uklee1029@gmail.com
       </a>
     </p>
     <p>
