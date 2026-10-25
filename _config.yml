@@ -14,7 +14,7 @@ author: Unkyung Lee
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "http://unkyunglee.github.io"
+  Home: "https://unkyunglee.github.io"
   About Me: "aboutme"
   Publications: "publication"
   Teaching: "teaching"
@@ -41,7 +41,7 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "Unkyung.Lee@fda.hhs.gov"
+  email: "uklee1029@gmail.com"
   #facebook: deanattali
   github: unkyunglee
   #twitter: daattali
