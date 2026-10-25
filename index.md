@@ -1,3 +1,9 @@
+---
+layout: page
+title: Welcome!
+#subtitle: Open to Biostatistician Opportunities
+---
+
 <style>
   .profile-layout {
     display: grid;
@@ -223,5 +229,4 @@
     </section>
   </div>
 </div>
-
   
