@@ -58,7 +58,7 @@ subtitle: Open to Biostatistician Opportunities
       </a>
     </p>
     <p>
-      <a href="https://www.linkedin.com/in/unkyunglee/">LinkedIn</a><br>
+      <a href="[https://www.linkedin.com/in/unkyunglee/](https://www.linkedin.com/in/unkyung-lee-73922b77/)">LinkedIn</a><br>
       <a href="https://github.com/unkyunglee">GitHub</a>
     </p>
   </aside>
