@@ -181,7 +181,7 @@ full-width: true
       <div class="profile-entry">
         <h3>ORISE Fellow</h3>
         <p class="profile-institution">
-          ORISE Program, U.S. Food and Drug Administration &middot; 2021–2022
+          <a href="https://orise.orau.gov/">ORISE Program</a>, <a href="https://www.fda.gov/home">U.S. Food and Drug Administration</a> &middot; 2021–2022
         </p>
         <p class="profile-description">
           Developed statistical methods for survival analysis
@@ -192,10 +192,10 @@ full-width: true
       <div class="profile-entry">
         <h3>Postdoctoral Research Associate</h3>
         <p class="profile-institution">
-          Texas A&amp;M University &middot; 2017–2020
+          <a href="https://stat.tamu.edu/">Texas A&amp;M University</a> &middot; 2017–2020
         </p>
         <p class="profile-description">
-          NIH-T32 training program in biostatistics,
+          <a href="https://train.stat.tamu.edu/"> NIH-T32 training program </a> in biostatistics,
           bioinformatics, nutrition, and cancer research.
         </p>
       </div>
