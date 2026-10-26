@@ -179,7 +179,7 @@ full-width: true
       </div>
 
       <div class="profile-entry">
-        <h3>Postdoctoral Research Fellow</h3>
+        <h3>ORISE Fellow</h3>
         <p class="profile-institution">
           ORISE Program, U.S. Food and Drug Administration &middot; 2021–2022
         </p>
@@ -195,7 +195,7 @@ full-width: true
           Texas A&amp;M University &middot; 2017–2020
         </p>
         <p class="profile-description">
-          NIH-supported training in biostatistics,
+          NIH-T32 training program in biostatistics,
           bioinformatics, nutrition, and cancer research.
         </p>
       </div>
