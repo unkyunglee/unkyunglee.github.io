@@ -147,7 +147,7 @@ full-width: true
 
   <div class="profile-intro">
     <section class="profile-section" aria-labelledby="about-heading">
-      #<h2 id="about-heading">About Me</h2>
+      
 
       <p>
         I am a biostatistician with a Ph.D. in Applied Mathematics
