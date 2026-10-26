@@ -153,13 +153,12 @@ full-width: true
         I am a biostatistician with a Ph.D. in Applied Mathematics
         and experience in biomedical research, oncology clinical
         trial design, and FDA regulatory statistical review.
-        I develop statistical methods to address practical
-        questions in biomedical science.
+        I developed statistical methods to address practical
+        questions in biomedical science and evaluated statistical aspects of pivotal clinical studies for therapeutic and surgical devices.  
       </p>
 
       <p>
-        I am currently seeking biostatistician opportunities
-        in collaborative biomedical research or pharma companies. 
+        I am currently seeking biostatistician opportunities in research labs or pharma companies.
       </p>
     </section>
 
@@ -169,24 +168,24 @@ full-width: true
       <div class="profile-entry">
         <h3>Mathematical Statistician</h3>
         <p class="profile-institution">
-          U.S. Food and Drug Administration &middot; 2023–2025
+          <a href="https://www.fda.gov/home">U.S. Food and Drug Administration</a>  &middot; 2023–2025
         </p>
-        <p class="profile-description">
-          Reviewed clinical study designs and statistical
-          analysis plans for therapeutic and diagnostic
-          medical devices.
-        </p>
+        #<p class="profile-description">
+        #  Reviewed clinical study designs and statistical
+        #  analysis plans for therapeutic and diagnostic
+        #  medical devices.
+        #</p>
       </div>
 
       <div class="profile-entry">
         <h3>ORISE Fellow</h3>
         <p class="profile-institution">
-          <a href="https://orise.orau.gov/">ORISE Program</a>, <a href="https://www.fda.gov/home">U.S. Food and Drug Administration</a> &middot; 2021–2022
+          <a href="https://orise.orau.gov/">ORISE Program</a>, U.S. Food and Drug Administration&middot; 2021–2022
         </p>
-        <p class="profile-description">
-          Developed statistical methods for survival analysis
-          and immuno-oncology clinical trials.
-        </p>
+        #<p class="profile-description">
+        #  Developed statistical methods for survival analysis
+        #  and immuno-oncology clinical trials.
+        #</p>
       </div>
 
       <div class="profile-entry">
