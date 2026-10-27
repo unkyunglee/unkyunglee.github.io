@@ -175,7 +175,7 @@ full-width: true
       <div class="profile-entry">
         <h3>ORISE Fellow</h3>
         <p class="profile-institution">
-          <a href="https://orise.orau.gov/">ORISE Program</a>, U.S. Food and Drug Administration&middot; 2021–2022
+          <a href="https://orise.orau.gov/">ORISE Program</a>, Center for Biologics Evaluation and Research (CBER), U.S. Food and Drug Administration&middot; 2021–2022
         </p>
       </div>
 
