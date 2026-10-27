@@ -193,7 +193,7 @@ full-width: true
       <div class="profile-entry">
         <h3>Lecturer</h3>
         <p class="profile-institution">
-          Sam Houston State University &middot; Fall 2016
+       <a href="https://www.shsu.edu/academics/colleges/science-engineering-technology/mathematics-statistics/">   Sam Houston State University</a> &middot; Fall 2016
         </p>
       </div>
     </section>
