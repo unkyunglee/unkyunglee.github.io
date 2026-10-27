@@ -181,12 +181,12 @@ full-width: true
 
       <div class="profile-entry">
         <h3>Postdoctoral Research Associate</h3>
-        <p class="profile-institution">
-          <a href="https://stat.tamu.edu/">Texas A&amp;M University</a> &middot; 2017–2020
-        </p>
         <p class="profile-description">
           <a href="https://train.stat.tamu.edu/"> NIH-T32 training program </a> in biostatistics,
           bioinformatics, nutrition, and cancer research.
+        </p>
+         <p class="profile-institution">
+          <a href="https://stat.tamu.edu/"> Department of Statistics at Texas A&amp;M University</a> &middot; 2017–2020
         </p>
       </div>
 
