@@ -168,24 +168,15 @@ full-width: true
       <div class="profile-entry">
         <h3>Mathematical Statistician</h3>
         <p class="profile-institution">
-          <a href="https://www.fda.gov/home">U.S. Food and Drug Administration</a>  &middot; 2023–2025
+          <a href="https://www.fda.gov/about-fda/fda-organization/center-devices-and-radiological-health"> Center for Devices and Radiological Health (CDRH),</a> U.S. Food and Drug Administration &middot; 2023–2025
         </p>
-        #<p class="profile-description">
-        #  Reviewed clinical study designs and statistical
-        #  analysis plans for therapeutic and diagnostic
-        #  medical devices.
-        #</p>
-      </div>
+       </div>
 
       <div class="profile-entry">
         <h3>ORISE Fellow</h3>
         <p class="profile-institution">
           <a href="https://orise.orau.gov/">ORISE Program</a>, U.S. Food and Drug Administration&middot; 2021–2022
         </p>
-        #<p class="profile-description">
-        #  Developed statistical methods for survival analysis
-        #  and immuno-oncology clinical trials.
-        #</p>
       </div>
 
       <div class="profile-entry">
