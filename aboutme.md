@@ -1,5 +1,3 @@
-
-
 ---
 layout: page
 title: Research
@@ -18,6 +16,8 @@ Add a description of your research here.
 ### Research at Texas A&M University
 
 Add a description of your projects here.
+
+### My PhD work at UNC Charlotte
 
 
      
