@@ -162,7 +162,7 @@ full-width: true
       </p>
      <p>
          <a href="{{ '/resources/Unkyung_Lee_resume_Oct_2026.pdf' | relative_url }}">
-         View my industry résumé
+         View my résumé updated in Oct, 2026
          </a>
       </p>
     </section>
