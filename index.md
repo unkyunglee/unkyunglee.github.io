@@ -160,6 +160,11 @@ full-width: true
       <p>
         I am currently seeking biostatistician opportunities in research labs or pharma companies.
       </p>
+     <p>
+         <a href="{{ '/resources/Unkyung_Lee_resume_Oct_2026.pdf' | relative_url }}">
+         View my industry résumé
+         </a>
+      </p>
     </section>
 
     <section class="profile-section" aria-labelledby="experience-heading">
