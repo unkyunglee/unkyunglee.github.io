@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 ---
 
 [View my CV]({{ '/resources/Unkyung_Lee_CV_Update_Nov_2022.pdf' | relative_url }})
