@@ -15,9 +15,9 @@ author: Unkyung Lee
 
 navbar-links:
   Home: "https://unkyunglee.github.io"
-  Projects: "projects"
-  Publications: "publication"
-  Teaching: "teaching"
+  Projects: "Projects"
+  Teaching: "Teaching"
+  BeyondWork: "Beyond Work"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
