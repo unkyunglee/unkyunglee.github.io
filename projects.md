@@ -1,7 +1,19 @@
 ---
 layout: page
 title: Projects
+full-width: true
 ---
+<style>
+  div[role="main"] {
+    width: 100%;
+    max-width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 24px;
+    padding-right: 24px;
+    box-sizing: border-box;
+  }
+</style>
 
 ## Selected Projects
 
