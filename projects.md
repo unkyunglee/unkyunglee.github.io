@@ -15,7 +15,19 @@ full-width: true
   }
 </style>
 
-## Selected Projects
+## Featured Projects
+
+### Projects in FDA: Improving a Clinical Trial Design for Cancer Immunotherapy
+
+[View presentation slides (PDF)]({{ '/resources/UnkyungLee_JobTalk_FDACDRH_40mins_Final.pdf' | relative_url }})
+
+Cancer immunotherapy has transformed cancer treatment, but not all patients respond to these therapies in the same way. Some patients experience substantial benefits, others respond moderately, and some may not benefit at all. These differences can produce complex survival patterns, making it difficult for conventional statistical methods to accurately evaluate treatment effectiveness.
+
+In collaboration with Dr. Zhenzhen Xu, I developed PRIME+, a statistical approach designed to account for heterogeneous treatment responses in immuno-oncology clinical trials. Rather than estimating only an average treatment effect across all patients, PRIME+ estimates treatment effects for different groups of responders. We also developed statistical testing procedures and sample size calculation methods to improve the design and analysis of clinical trials. Through simulation studies, we demonstrated that accounting for differences in patients' treatment responses can improve statistical power and potentially reduce the number of patients required to achieve the same statistical power, particularly when treatment responses vary substantially across patient subgroups and their characteristics are accurately specified.
+
+Our goal is to develop more efficient clinical trial designs and provide researchers with a better understanding of how different groups of patients benefit from cancer immunotherapy.
+
+**Manuscript in preparation:** Lee, U. and Xu, Z. *Design for Immuno-Oncology Clinical Trials with a Heterogeneous Patient Population.* (Currently under coauthor review)
 
 ### PhD projects: Competing Risks Data Analysis with Missing Biomarkers under Two-Phase Sampling
 
