@@ -9,7 +9,7 @@ future might look like, including *I, Robot* and *Idiocracy*. With my
 daughter, some of my favorite activities are baking, playing pretend,
 reading books, and visiting the playground.
 
-<img src="{{ '/img/Crocheted%20Toy%20and%20Halloween%20Cupcakes.png' | relative_url }}"
+<img src="{{ '/img/hobby.png' | relative_url }}"
      alt="A colorful crocheted toy and homemade Halloween cupcakes"
      style="display: block; width: 100%; max-width: 900px; height: auto; margin: 24px auto;">
 
