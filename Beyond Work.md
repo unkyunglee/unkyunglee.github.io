@@ -10,6 +10,7 @@ daughter, some of my favorite activities are baking, playing pretend,
 reading books, and visiting the playground.
 
 <img src="{{ '/img/hobby.png' | relative_url }}"
+     alt="Hobby photo"
      style="display: block; width: 100%; max-width: 900px; height: auto; margin: 24px auto;">
 
 I also make time to stay active. Recently, I’ve been learning ballet
