@@ -11,7 +11,6 @@ reading books, and paying at the playground.
      alt="Fun things to do"
      style="display: block; max-width: 100%; height: auto; margin: 24px auto;">
 
-
 I also make time to stay active. Recently, I’ve been learning ballet
 and Pilates, and I enjoy running during the golden hours.
 
