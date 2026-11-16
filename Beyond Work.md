@@ -4,7 +4,7 @@ title: Beyond Work
 ---
 
 Outside of work, I love spending time with my family. I enjoy watching movies with my husband. My favorite movie is *About Time*. I love watching films that imagine what the
-future might look like, including *I, Robot* and *Idiocracy*. With my daughter, some of my favorite activities are baking, playing pretend,
+future might look like, including *I, Robot* and *Idiocracy*. With my daughter, some of my favorite activities are baking, crocheting, playing pretend,
 reading books, and paying at the playground.
 
 <img src="{{ '/img/hobby.png' | relative_url }}"
