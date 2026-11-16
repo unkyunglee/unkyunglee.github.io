@@ -15,8 +15,8 @@ full-width: true
   }
 </style>
 
-## My Story
-My PhD research at the University of North Carolina at Charlotte focused on the analysis of competing risks data under a case-cohort/two-phase sampling design. By the design, important biomarkers associated with disease risk may not available for all study patients. I developed statistical methods that account for the missingness and applied them to the RV144 HIV vaccine trial to study how two competing immune responses were associated with HIV-1 infection. This work was published in  [*Computational Statistics & Data Analysis* (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5993453/). This work was later extended to a method that makes fuller use of available participant information and produces more reliable results under a broader range of assumptions ([*Canadian Journal of Statistics* (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10022693/)). 
+
+My PhD research at the University of North Carolina at Charlotte focused on the analysis of competing risks data under a case-cohort/two-phase sampling design. By the design, important biomarkers associated with disease risk may not available for all study patients. I developed statistical methods that account for the missingness and applied them to the RV144 HIV vaccine trial to study how competing immune responses were associated with HIV-1 infection. This work was published in  [*Computational Statistics & Data Analysis* (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5993453/). It was extended to a method that makes fuller use of available participant information and produces more reliable results under a broader range of assumptions ([*Canadian Journal of Statistics* (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10022693/)). 
 
 [View presentation slides (PDF)]({{ '/resources/PhDwork_IPW_CIF.pdf' | relative_url }})
 
@@ -24,13 +24,11 @@ After earning my PhD, I joined Texas A&M University as a postdoctoral research a
 
 [View my poster slide at JSM (PDF)]({{ '/resources/JSM2020_Poster_Record-1.pdf' | relative_url }})
 
-I later joined FDA CBER as an ORISE Research Fellow, where my work focused on clinical trial methodology. I developed a design and analysis procedure for immuno-oncology trials which involves non-proportional hazards. We demonstrated that accounting for heterogeneous patients' treatment responses can improve statistical power and potentially reduce the number of patients required to achieve the same statistical power, particularly when treatment responses vary substantially across patient subgroups and their characteristics are accurately specified. We implemented the methods in an R package called PRIME+. The manuscript is currently under review. This work built on my growing foundation in clinical trial design, conduct, and analysis including my study of Steven Piantadosi’s *Clinical Trials: A Methodologic Perspective* (https://onlinelibrary.wiley.com/doi/book/10.1002/0471740136). 
+At FDA’s Center for Biologics Evaluation and Research (CBER), my work shifted toward clinical trial methodology. In collaboration with my supervisor, we developed a design and analysis approach for immuno-oncology trials in which treatment effects may change over time — a challenge known as non-proportional hazards. Our simulation studies showed that accounting for differences in treatment response across patient subgroups can improve statistical power and, reduce the number of participants needed to achieve the same power. These benefits were greatest when response differences were substantial and the subgroups were well characterized. I implemented the methods in the R package PRIME+. The manuscript is currently under review. This work strengthened my foundation in clinical trial design, conduct, and analysis.
 
-I then moved to FDA CDRH as a Mathematical Statistician to learn how clinical studies are evaluated in regulatory settings. I reviewed clinical studies of therapeutic and diagnostic medical devices, including study designs, analysis plans, and statistical issues in regulatory submissions, and worked with internal review teams and sponsors.
+I later joined FDA’s Center for Devices and Radiological Health (CDRH) as a Mathematical Statistician to gain experience evaluating clinical evidence in a regulatory setting. I reviewed studies of therapeutic and diagnostic medical devices, including their designs, analysis plans, and statistical issues in regulatory submissions. I also worked with internal review teams and sponsors, and reviewed data integrity and clinical trial results in premarket applications.
 
-My career has taken me from statistical methods research and biomedical collaboration to clinical trial methodology and regulatory review. I’m now interested in bringing these experiences together in pharmaceutical clinical development.
-
-
+My career has progressed from developing statistical methods and collaborating on biomedical research to designing clinical trials and evaluating evidence for regulatory decisions. I’m now seeking opportunities in pharmaceutical clinical development, clinical research, academic research, or teaching, where I can bring together my experience in statistical methods, clinical trial methodology, and regulatory review.
 
 
 
