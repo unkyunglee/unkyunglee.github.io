@@ -167,7 +167,7 @@ full-width: true
       </p>
 
          <p>
-         <a href="{{ '/resources/UnkyungLee_CV_Colorado_Mines.pdf' | relative_url }}">
+         <a href="{{ '/resources/UnkyungLee_academic_CV.pdf' | relative_url }}">
          View my academic CV
          </a>
       </p>
