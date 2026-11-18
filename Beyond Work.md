@@ -3,7 +3,7 @@ layout: page
 title: Beyond Work
 ---
 
-I love spending time with my family. I enjoy watching movies like "Toy Story", "How to train dragon" series with my daughter and *I, Robot*, *Idiocracy*, *imitation game*, "True lies" and "Speed", etc., with my husband. My favorite movie is *About Time* though. With my daughter, some of my favorite activities are baking, crocheting, playing pretend,
+I love spending time with my family. I enjoy watching movies like *Toy Story*, *How to train dragon* series with my daughter and *I, Robot*, *Idiocracy*, *imitation game*, *True lies* and *Speed*, etc., with my husband. My favorite movie is *About Time*. With my daughter, some of my favorite activities are baking, crocheting, playing pretend,
 and paying at the playground.
 
 <img src="{{ '/img/hobby.png' | relative_url }}"
