@@ -3,14 +3,13 @@ layout: page
 title: Beyond Work
 ---
 
-I love spending time with my family. I enjoy watching movies like *Toy Story*, *How to train dragon* series with my daughter and *I, Robot*, *Idiocracy*, *imitation game*, *True lies* and *Speed*, etc., with my husband. My favorite movie is *About Time*. With my daughter, some of my favorite activities are baking, crocheting, playing pretend,
-and paying at the playground.
+Beyond work, I value the time I share with my family the most. I treasure the simple moments we spend together, whether we are watching movies, baking, chrocheting, playing pretend, or enjoying an afternoon at the playground. My daughter and I love animated adventures like *Toy Story*, *How to train your dragon*, while my husband and I enjoy a wide range of films. *About Time* is my favorite. We also enjoy making music together: I play the flute, and my husband plays piano. 
 
 <img src="{{ '/img/hobby.png' | relative_url }}"
      alt="Fun things to do"
      style="display: block; max-width: 100%; height: auto; margin: 24px auto;">
 
-I also enjoy running or walking during the down time, especially during the golden hours. Recently, I’ve been into learning ballet. 
+I also enjoy running or walking outside, especially during the golden hours. Recently, I have started learning ballet. 
 
 <img src="{{ '/img/golden.png' | relative_url }}"
      alt="Fun things to do"
